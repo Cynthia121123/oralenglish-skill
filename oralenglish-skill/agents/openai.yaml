@@ -1,0 +1,4 @@
+interface:
+  display_name: "Oral English Skill"
+  short_description: "专四口语思辨陪练：逐轮英文话题与正反参考句型，作答后原句转写、口语化优化、简短点评，支持继续追问与重新回答"
+  default_prompt: "使用 $oralenglish-skill 开始一轮英语专四口语思辨训练：先给出一个英文思辨话题，并附一句肯定、一句否定的英文参考句型，等待用户口头作答。"
